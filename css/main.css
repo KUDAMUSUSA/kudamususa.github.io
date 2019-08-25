@@ -1,14 +1,13 @@
 body { 
 font:Ariel;
-
-  background-image:url("https://imgur.com/O0Sfqca.jpg")
+background-image:url("https://imgur.com/O0Sfqca.jpg")
 font-weight:200;
 font-style:italic;
 text-transform:uppercase;
 }
 header {
-background-color:blue;
-  color:gold;
+background-color:black;
+  color:white;
   padding:35px;
   align:center;
   font-weight:100;
