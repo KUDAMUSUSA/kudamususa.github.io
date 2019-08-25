@@ -1,6 +1,7 @@
 body { 
 font: Ariel;
 background-image: url("https://imgur.com/O0Sfqca.jpg");
+  background-repeat: no-repeat;
 font-weight:200;
 font-style:italic;
 text-transform:uppercase;
