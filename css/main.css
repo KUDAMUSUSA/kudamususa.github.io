@@ -1,6 +1,6 @@
 body { 
 font: Ariel;
-background-color:#B698D4;
+background-color:#EAEDCC;
   background-size:1500px 900px;
 font-weight:200;
 font-style:italic;
@@ -17,14 +17,17 @@ background-color:#BFE3DC;
   height:150px;
  
 }
-ul {
+#nav {
   list-style-type:none;
+  background-color:#79C1D7;
   margin:0;
   padding:0;
   width:200px;
-  background-color:#AB4DA4;
-
+  border-style:groove;
+  border_width:10px;
+  border-color:red;
 }
+
 li a {
   display:block;
   color:#000;
