@@ -33,11 +33,13 @@ width:50%;
 }
 #pricing {
   float:right;
-width:40%
+width:40%;
 }
 footer {
   background-color:grey;
-  align:right
+  align:right;
   color:black;
-
+}
+#footer{
+clear:both;
 }
