@@ -13,7 +13,12 @@ background-color:white;
   padding:35px;
   align:center;
   font-weight:100;
-  Width:15px;
-  
+  Width:5px;
+  text-align:center;  
  
+}
+.intro {
+  color:pink;
+  font-style:oblique;
+  font-size:5px;
 }
