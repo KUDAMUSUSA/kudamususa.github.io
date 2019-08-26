@@ -21,6 +21,20 @@ background-color:white;
   font-style:oblique;
   font-size:5px;
 }
+#container {
+  background-color:pink;
+  text-align:center;
+  text-weight:100;
+
+}
+#cakes{
+float:right;
+width:50%;  
+}
+#pricing {
+  float:right;
+width:40%
+}
 footer {
   backgroung-color:grey;
   align:right
