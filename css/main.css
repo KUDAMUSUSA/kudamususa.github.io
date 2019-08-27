@@ -17,15 +17,14 @@ background-color:#BFE3DC;
   height:150px;
  
 }
-nav{
+ul{
   list-style-type:none;
-  background-color:#79C1D7;
+ 
   margin:0;
   padding:0;
   width:200px;
-  border-style:groove;
-  border_width:10px;
-  border-color:red;
+  
+
 }
 
 li a {
