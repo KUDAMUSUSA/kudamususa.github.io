@@ -17,6 +17,13 @@ background-color:#BFE3DC;
   height:150px;
  
 }
+
+#myslide{
+  height: 15px;
+  padding:10px;
+  align:center;
+
+}
 ul{
   list-style-type:none;
  
