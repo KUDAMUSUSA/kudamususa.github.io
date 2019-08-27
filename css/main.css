@@ -55,11 +55,13 @@ li a:hover {
 float:left;
 background-color:chocolate;
 width:40%;  
+padding:5px 5px;
 }
 #pricing {
   float:left;
   width:40%;
   background-color:beige;
+  padding:5px 5px;
 }
 footer {
   background-color:grey;
