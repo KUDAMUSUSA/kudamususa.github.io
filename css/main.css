@@ -9,7 +9,7 @@ font-style:italic;
 header {
 background-color:#BFE3DC;
   color: #5D4DAB;
-  padding:35px;
+  padding:35px 35px;
   align:center;
   font-weight:100;
   text-align:center; 
@@ -22,6 +22,11 @@ background-color:#BFE3DC;
   height: 15px;
   padding:10px;
   align:center;
+
+}
+img {
+  align:centre;
+  height:25px;
 
 }
 ul{
