@@ -7,7 +7,7 @@ font-style:italic;99
 
 }
 header {
-background-color:black;
+background-color:PINK;
   color: #5D4DAB;
   padding:35px 35px;
   align:center;
@@ -64,7 +64,7 @@ li a:hover {
 }
 #cakes{
 float:left;
-background-color:chocolate;
+background-color:NEON;
 width:40%;  
 padding:5px 5px;
 }
