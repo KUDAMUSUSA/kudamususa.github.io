@@ -22,7 +22,7 @@ background-color:PINK;
 
 img {
   display:block;
-  height:255px;
+  height:215px;
   padding:60px 60px;
   width:405px;
   margin-left:auto;
@@ -64,7 +64,7 @@ li a:hover {
 }
 #cakes{
 float:left;
-background-color:NEON;
+background-color:#F3DF29;
 width:40%;  
 padding:5px 5px;
 }
