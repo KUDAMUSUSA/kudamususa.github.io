@@ -7,7 +7,7 @@ font-style:italic;
 
 }
 header {
-background-color:#BFE3DC;
+background-color:black;
   color: #5D4DAB;
   padding:35px 35px;
   align:center;
@@ -23,7 +23,9 @@ background-color:#BFE3DC;
 img {
   align:centre;
   height:205px;
-  padding:60px 60px;
+  padding:260px 60px;
+  width:200px;
+  border-color
 
 }
 ul{
