@@ -40,10 +40,11 @@ ul{
 }
 
 li a {
-  display:iBLOCK;
+  display:BLOCK;
   color:#000;
   padding: 8px 16px;
   text-decoration:none;
+  
  ;
 }
 li a:hover {
