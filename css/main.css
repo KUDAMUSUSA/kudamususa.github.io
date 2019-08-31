@@ -7,7 +7,7 @@ font-style:italic;99
 
 }
 header {
-background-color:PINK;
+background-color:#e64d6c;
   color: #5D4DAB;
   padding:35px 35px;
   align:center;
@@ -65,14 +65,14 @@ li a:hover {
 }
 #cakes{
 float:left;
-background-color:#F3DF29;
+background-color:#FDOCD5;
 width:40%;  
 padding:5px 5px;
 }
 #pricing {
   float:left;
   width:40%;
-  background-color:beige;
+  background-color:#FDOC64;
   padding:5px 5px;
 }
 footer {
